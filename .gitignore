@@ -5,7 +5,6 @@
 !.gitignore
 
 # Allow only the specific files we want to track
-!SAELens_Configuration_Summary.md
 !run_saelens_training.sh
 !sae_lens_train.py
 !README.md
