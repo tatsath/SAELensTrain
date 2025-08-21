@@ -1,0 +1,15 @@
+# Ignore everything by default
+*
+
+# But allow these specific files and directories
+!.gitignore
+
+# Allow only the specific files we want to track
+!SAELens_Configuration_Summary.md
+!run_saelens_training.sh
+!sae_lens_train.py
+!README.md
+!evaluate_sae_real_activations.py
+
+# Allow .git directory
+!.git/
