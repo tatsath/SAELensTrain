@@ -41,7 +41,6 @@ SAELensTrain/
 ├── sae_lens_train.py              # SAELens v6 training script
 ├── run_saelens_training.sh        # Training execution script
 ├── evaluate_sae_real_activations.py # SAE evaluation script
-├── SAELens_Configuration_Summary.md # Training configuration details
 ├── checkpoints/                   # Trained SAE checkpoints
 │   └── llama_layer12_sae_saelens_500k_8d0fb52d/
 │       └── y05st1pp/final_500736/
